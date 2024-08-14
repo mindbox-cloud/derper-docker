@@ -31,5 +31,3 @@ jobs:
           push: true
           tags: |
             ghcr.io/mindbox-cloud/derper:latest
-            mindbox-cloud/derper:latest
-            mindbox-cloud/derper:${{ github.sha }}
